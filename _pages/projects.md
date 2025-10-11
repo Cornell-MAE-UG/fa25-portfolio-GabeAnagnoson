@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name> - Portfolio
+title: Gabe Anagnoson - Portfolio
 permalink: /projects/
 ---
 
