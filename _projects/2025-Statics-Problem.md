@@ -2,7 +2,6 @@
 layout: project
 title: Design Problem
 description: Statics Design Problem
-technologies: []
 image: /assets/images/PortfolioProblem1.jpg
 ---
 
