@@ -2,13 +2,13 @@
 layout: project
 title: Statics Design Problem
 description: Design Problem for Statics and Mechanics of Solids Class
-image: /assets/images/final-statics-design.jpeg
+image: /assets/images/statics-design-final.jpeg
 ---
 
 For a class, we were asked to design a mechanism to lift a load of maximum weight, the maximum height: We were given a 2D design space 150cm long and 50cm tall, a rigid bar of a fixed length, 3 pin supports, two of which needed to be mounted on the ground and a linear
 actuator of our choice from a catalog, using its maximum force values and assuming all the supports and bar/actuator are rigid for the first step.
 
-![Photo of work]({{ "/assets/images/statics-geometry-design.jpeg" | relative_url }}){: .inline-image-l}
+![Photo of work]({{ "/assets/images/statics-design-geometry.jpeg" | relative_url }}){: .inline-image-l}
 
 My solution was to use the bar to rotate the load at the from whatever the lowest angle between the bar and actuator I could find was, to pushing the bar to vertical. My solution to maximizing the change in height and the weight was to position the actuator 90 degrees with the bar at the lowest and stipulate it must be at its fully extended length at the top. This gave a system of equations which solving for gave me the all the dimensions of the system.
 
