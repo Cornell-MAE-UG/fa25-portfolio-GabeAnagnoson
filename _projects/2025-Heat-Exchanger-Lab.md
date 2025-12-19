@@ -8,26 +8,18 @@ image: /assets/images/ParallelflowSetup.png
 
 As part of a class project, we were asked to select a real-world instance of a device or system that we have learned about in MAE 2210: Thermodynamics, explained how it works in detail, and then discussed how its performance would change under change in design or operating conditions. 
 
+Setup
+
 We chose a heat exchanger and our suppplies were:
-
 • one heat exchanger
-
 • two water pumps
-
 • 4 water buckets
-
 • ice
-
 • water
-
 • styrofoam for insulation
-
 • an immersion heater
-
 • one thermocouple
-
 • four thermometers
-
 • food dye
 
 ![Photo of Exchanger]({{ "/assets/images/Exchanger.png" | relative_url }}){: .inline-image-l}
@@ -48,6 +40,8 @@ Parallel: We found the initial temperature of the water in the cold reservoir to
 ![Photo of Counter Flow]({{ "/assets/images/CounterflowSetup.png" | relative_url }}){: .inline-image-l}
 
 Counter-flow: We found the initial temperature of the water in the cold reservoir to be 5.0 degrees Celsius and the warm reservoir to be 40.0 degrees Celsius. The initial temperature of the exchanger was 20.8 degrees Celsius. During the process the exchanger was at 18.0 degrees. The temperature of the water from the cold reservoir after going through the exchanger was 25.7 degrees and the water from the warm reservoir was 18.8 degrees.
+
+Analysis
 
 ![Photo of Work]({{ "/assets/images/HeatExchangerWork.jpg" | relative_url }}){: .inline-image-r}
 
