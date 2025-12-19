@@ -9,15 +9,25 @@ image: /assets/images/ParallelflowSetup.png
 As part of a class project, we were asked to select a real-world instance of a device or system that we have learned about in MAE 2210: Thermodynamics, explained how it works in detail, and then discussed how its performance would change under change in design or operating conditions. 
 
 We chose a heat exchanger and our suppplies were:
+
 • one heat exchanger
+
 • two water pumps
+
 • 4 water buckets
+
 • ice
+
 • water
+
 • styrofoam for insulation
+
 • an immersion heater
+
 • one thermocouple
+
 • four thermometers
+
 • food dye
 
 ![Photo of Exchanger]({{ "/assets/images/Exchanger.png" | relative_url }}){: .inline-image-l}
