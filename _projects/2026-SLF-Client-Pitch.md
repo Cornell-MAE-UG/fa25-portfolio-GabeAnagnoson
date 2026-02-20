@@ -1,3 +1,10 @@
+---
+layout: project
+title: Spotted Lanternfly Solution Client Pitch
+description: A client pitch to grape industry professionals for a solution to spotted lanternfly infestations
+image: /assets/images/SpottedLanternflies.jpeg
+---
+
 # **A Totally Inconspicuous Bag**
 
 **Team:** *Friday AM MAE 2250 ODP Final Project Team Table One (FAMMAE2250ODPFPTT1)*  
@@ -49,3 +56,4 @@ Baker, T. C., Myrick, A. J., Wolfin, M. S., & Wang, Y. (n.d.). *Visual responses
 
 **Figures**  
 Figure 1: Mesh bag attracts lanternflies inside and traps them.
+![Photo of work]({{ "/assets/images/SpottedLanternflySolution.jpeg" | relative_url }}){: .inline-image-l}
